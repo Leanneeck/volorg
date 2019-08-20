@@ -29,3 +29,5 @@ module.exports = function (config) {
     singleRun: false
   });
 };
+//require firebase
+var firebase = require("firebase");
